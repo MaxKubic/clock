@@ -8,7 +8,7 @@ Tento dokument obsahuje kompletní přehled hardwaru a materiálu pro stavbu hod
 
 | Komponenta | Model / Specifikace | Stav | Odkaz / Poznamka | Odhadovaná cena |
 | :--- | :--- | :---: | :--- | :---: |
-| **Základní deska** | ESP32 deska | 🔴 Chybí | [RPiShop.cz] (https://rpishop.cz/esp32-a-esp8266/1500-esp32-vyvojova-deska.html) | ~249 Kč |
+| **Základní deska** | ESP32 deska | 🔴 Chybí | [RPiShop.cz](https://rpishop.cz/esp32-a-esp8266/1500-esp32-vyvojova-deska.html) | ~249 Kč |
 | **Displej** | OLED displej 0.96″ | 🔴 Chybí | [RPiShop.cz](https://rpishop.cz/lcd-oled-displeje/6193-waveshare-096-oled-displej-bila-12864-bez-dotyku-spi-i2c.html) | ~175 Kč |
 | **MP3 modul**| Přehrávač MP3 mini MP3-TF-16P pro Arduino | 🔴 Chybí | [RPiShop.cz](https://rpishop.cz/654329/prehravac-mp3-mini-mp3-tf-16p-pro-arduino/) | ~65 Kč |
 | **Reproduktor** | Waveshare 8Ω 5W reproduktor | 🔴 Chybí | [RPiShop.cz](https://rpishop.cz/reproduktory/1204-waveshare-8-5w-reproduktor.html) | ~109 Kč |
